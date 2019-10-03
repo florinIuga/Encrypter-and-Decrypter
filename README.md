@@ -1,4 +1,4 @@
-# My-Encryption
+# Encrypter and Decrypter
 IUGA FLORIN-EUGEN, 325CA
 
 

@@ -5,7 +5,7 @@ IUGA FLORIN-EUGEN, 325CA
 
 		Project 2 IOCLA
 
-VOI VORBI DESPRE FIECARE TASK IN PARTE.
+
 TASK1:
   -> Am aflat lungimea sirului encoded pentru a stii la ce adresa
      se afla cheia (initial i-am facut o copie sirului in ebx,
